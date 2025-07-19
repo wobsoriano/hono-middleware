@@ -251,6 +251,13 @@
     "frequency": "No information.",
     "description": "Used to train Gemini and Vertex AI generative APIs. Does not impact a site's inclusion or ranking in Google Search."
   },
+  "GoogleAgent-Mariner": {
+    "operator": "Unclear at this time.",
+    "respect": "Unclear at this time.",
+    "function": "AI Agents",
+    "frequency": "Unclear at this time.",
+    "description": "GoogleAgent-Mariner is an AI agent created by Google that can use a web browser. It can intelligently navigate and interact with websites to complete multi-step tasks on behalf of a human user. More info can be found at https://darkvisitors.com/agents/agents/googleagent-mariner"
+  },
   "GoogleOther": {
     "description": "\"Used by various product teams for fetching publicly accessible content from sites. For example, it may be used for one-off crawls for internal research and development.\"",
     "frequency": "No information.",
@@ -523,6 +530,20 @@
     "function": "Extracts data for a variety of uses including training AI.",
     "operator": "[Sidetrade](https://www.sidetrade.com)",
     "respect": "Unclear at this time."
+  },
+  "SummalyBot": {
+    "description": "AI input summarization.",
+    "frequency": "No information.",
+    "function": "Extracts data to provide summaries for user; additional usages unclear.",
+    "operator": "Unclear at this time.",
+    "respect": "Unclear at this time."
+  },
+  "Thinkbot": {
+    "operator": "[Thinkbot](https://www.thinkbot.agency)",
+    "respect": "No",
+    "function": "Insights on AI integration and automation.",
+    "frequency": "Unclear at this time.",
+    "description": "Collects data for analysis on AI usage and automation."
   },
   "TikTokSpider": {
     "operator": "ByteDance",
